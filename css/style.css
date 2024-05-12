@@ -78,8 +78,8 @@ h2 {
 
 h3 {
     text-transform: uppercase;
-    color:darkred;
-    text-shadow:.09375rem .09375rem .09375rem #000;
+    color:rgba(7, 0, 48, 0.836);
+    text-shadow:.09375rem .09375rem .09375rem #000000b6;
     font-family:'Alfa Slab One', Garamond, serif;
     font-size: 2rem;
     font-weight: normal;
